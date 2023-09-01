@@ -8,8 +8,8 @@ public class TestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
-		System.out.println("Run done project");
-		System.out.println("Run project");
+		System.out.println("test the github");
+		
 		
 		
 	}
