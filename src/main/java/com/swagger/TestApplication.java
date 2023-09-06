@@ -9,8 +9,7 @@ public class TestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
          System.out.println("run proper");
-	 System.out.println("run project");	
-		
+	 System.out.println("run the service proper");
 	}
 
 }
